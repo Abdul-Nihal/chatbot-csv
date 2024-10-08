@@ -1,0 +1,23 @@
+﻿passport_type_id,passport_type_desc_en
+26,Official Passport 
+27,Service Passport
+3,Private
+4,Temporary
+5,Assignment
+6,Maritime
+7,Travel Doc
+8,Return Pass
+1,Normal
+2,Diplomatic
+13,Egyptian Travel Doc
+14,Syrian Travel Doc
+15,Lebanese Travel Doc
+19,United Nations Passport
+10,Crew Card
+84,Public Affairs
+85,Emergency Passport
+86,Omani Travel Document
+87,FOREIGN PASSPORT
+93,Military Card
+94,EU Passport
+95,Business Passport
